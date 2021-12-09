@@ -7,6 +7,7 @@ OUTPUT_PATH = 'docs'
 TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
+THEME = 'mnmlist'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
