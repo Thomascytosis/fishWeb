@@ -20,11 +20,11 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Clupeidae Wikipedia', 'https://en.wikipedia.org/wiki/Clupeidae'),
          ('Adriaticnature', 'https://adriaticnature.com/archives/6439'),
          ('Sardine Reviews', 'https://sardine.reviews/'),
-
+)
 
 # Social widget
 SOCIAL = (('upcoming...', '#'),
-
+)
 
 DEFAULT_PAGINATION = False
 
