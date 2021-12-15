@@ -1,6 +1,10 @@
 title: Who Loves Oily Fish?
 date: 2021-12-09
 category: Home
+tags: oil, fish, oily, fishy, Clupeidae
+authors: JCTECH, Thomascytosis
+lang: en
+
 #The wonderful world (and flavor!)
 #of the most precious of all fishes!
 
