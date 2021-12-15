@@ -16,15 +16,15 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-# Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+# Related Links
+LINKS = (('Clupeidae Wikipedia', 'https://en.wikipedia.org/wiki/Clupeidae'),
+         ('Adriaticnature', 'https://adriaticnature.com/archives/6439'),
+         ('Sardine Reviews', 'https://sardine.reviews/'),
+)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('upcoming...', '#'),
+)
 
 DEFAULT_PAGINATION = False
 
@@ -36,3 +36,4 @@ PLUGINS = [
     'minchin.pelican.plugins.nojekyll',
     # ...
 ]
+DISQUS_SITENAME = 'https-thomascytosis-github-io-fishweb'
