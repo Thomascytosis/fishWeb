@@ -7,14 +7,14 @@ OUTPUT_PATH = 'docs'
 TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
-THEME = 'bootstrap2-dark'
+THEME = 'chunk'
 
 # Feed generation is usually not desired when developing
-FEED_ALL_ATOM = None
-CATEGORY_FEED_ATOM = None
-TRANSLATION_FEED_ATOM = None
-AUTHOR_FEED_ATOM = None
-AUTHOR_FEED_RSS = None
+#FEED_ALL_ATOM = None
+#CATEGORY_FEED_ATOM = None
+#TRANSLATION_FEED_ATOM = None
+#AUTHOR_FEED_ATOM = None
+#AUTHOR_FEED_RSS = None
 
 # Related Links
 LINKS = (('Clupeidae Wikipedia', 'https://en.wikipedia.org/wiki/Clupeidae'),
