@@ -1,4 +1,5 @@
 title: Recipes
+category: Main
 date: 2021-12-09
 
 # Recipes
