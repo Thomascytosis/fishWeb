@@ -1,6 +1,6 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'Oily Fish'
-SITEURL = '.'
+SITEURL = 'https://thomascytosis.github.io/fishWeb/'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
