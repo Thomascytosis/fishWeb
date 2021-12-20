@@ -1,6 +1,6 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'Oily Fish'
-SITEURL = 'https://thomascytosis.github.io/fishWeb/'
+SITEURL = 'https://thomascytosis.github.io/fishWeb'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
@@ -25,10 +25,10 @@ DISPLAY_PAGES_ON_MENU = True
 #          ('Adriaticnature', 'https://adriaticnature.com/archives/6439'),
 #          ('Sardine Reviews', 'https://sardine.reviews/'),
 # )
-MENUITEMS = (('About', '/fishweb/pages/about.html'),
-        ('Contact', '/fishweb/pages/contact.html'),
-        ('Recipes', '/fishweb/pages/recipes.html'),
-        ('Home', '/fishweb/pages/home-page.html'))
+MENUITEMS = (('About', '/pages/about.html'),
+        ('Contact', '/pages/contact.html'),
+        ('Recipes', '/pages/recipes.html'),
+        ('Home', '/pages/home-page.html'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
