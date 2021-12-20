@@ -8,6 +8,7 @@ TIMEZONE = 'America/Denver'
 
 DEFAULT_LANG = 'en'
 THEME = 'chunk'
+
 DISPLAY_CATEGORIES_ON_MENU = True
 USE_FOLDER_AS_CATEGORY = True
 LOAD_CONTENT_CACHE = False
@@ -24,10 +25,10 @@ DISPLAY_PAGES_ON_MENU = True
 #          ('Adriaticnature', 'https://adriaticnature.com/archives/6439'),
 #          ('Sardine Reviews', 'https://sardine.reviews/'),
 # )
-MENUITEMS = (('About', '/pages/about.html'),
-        ('Contact', '/pages/contact.html'),
-        ('Recipes', '/pages/recipes.html'),
-        ('Home', '/pages/home-page.html'))
+MENUITEMS = (('About', 'fishweb/pages/about.html'),
+        ('Contact', 'fishweb/pages/contact.html'),
+        ('Recipes', 'fishweb/pages/recipes.html'),
+        ('Home', 'fishweb/pages/home-page.html'))
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
