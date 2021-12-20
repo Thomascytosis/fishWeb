@@ -36,7 +36,7 @@
 			<div class="menu-navigation-container">
 				<ul id="menu-navigation" class="menu">
 					{% for title, link in MENUITEMS %}
-						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ link }}">{{ title }}</a></li>
+						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}{{ link }}">{{ title }}</a></li>
 					{% endfor %}
 					{% if DISPLAY_PAGES_ON_MENU %}
 					  {% for p in PAGES %}
@@ -50,7 +50,7 @@
 					{% endif %}
 					{% if LINKS %}
 					  {% for name, url in LINKS %}
-						<li  class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}/{{ url }}">{{ name }}</a></li>
+						<li  class="active" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}{{ url }}">{{ name }}</a></li>
 					  {% endfor %}
 					{% endif %}
 
