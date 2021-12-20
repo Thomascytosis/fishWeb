@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Oily Fish - JCTECH Thomascytosis</title><link>https://thomascytosis.github.io/fishWeb/</link><description></description><lastBuildDate>Thu, 09 Dec 2021 00:00:00 -0700</lastBuildDate><item><title>Who Loves Oily Fish?</title><link>https://thomascytosis.github.io/fishWeb/who-loves-oily-fish.html</link><description>&lt;h1&gt;The wonderful world (and flavor!)&lt;/h1&gt;
+&lt;h1&gt;of the most precious of all fishes!&lt;/h1&gt;
+&lt;p&gt;Please enjoy the oil.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;form
+  action="https://formspree.io/f/xnqwqpng"
+  method="POST"
+&gt;
+  &lt;label&gt;
+    What is your favorite oily fish?:
+    &lt;br&gt;&lt;/br&gt;
+    &lt;textarea name="please share everything about your favorite oily fish"&gt;&lt;/textarea&gt;
+  &lt;/label&gt;
+  &lt;br&gt;&lt;/br&gt;
+  &lt;label&gt;
+    Your email: 
+    &lt;input type="email" name="_replyto"&gt;
+  &lt;/label&gt;
+  &lt;!-- your other form fields go here --&gt;
+  &lt;button type="submit"&gt;Send&lt;/button&gt;
+&lt;/form&gt;
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JCTECH Thomascytosis</dc:creator><pubDate>Thu, 09 Dec 2021 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:thomascytosis.github.io,2021-12-09:/fishWeb/who-loves-oily-fish.html</guid><category>Main</category><category>oil</category><category>fish</category><category>oily</category><category>fishy</category><category>Clupeidae</category></item></channel></rss>
