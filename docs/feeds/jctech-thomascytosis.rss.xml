@@ -3,21 +3,9 @@
 &lt;h1&gt;of the most precious of all fishes!&lt;/h1&gt;
 &lt;p&gt;Please enjoy the oil.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;form
-  action="https://formspree.io/f/xnqwqpng"
-  method="POST"
-&gt;
-  &lt;label&gt;
-    What is your favorite oily fish?:
-    &lt;br&gt;&lt;/br&gt;
-    &lt;textarea name="please share everything about your favorite oily fish"&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br&gt;&lt;/br&gt;
-  &lt;label&gt;
-    Your email: 
-    &lt;input type="email" name="_replyto"&gt;
-  &lt;/label&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type="submit"&gt;Send&lt;/button&gt;
-&lt;/form&gt;
-&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JCTECH Thomascytosis</dc:creator><pubDate>Thu, 09 Dec 2021 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.oilyfish.xyz,2021-12-09:/who-loves-oily-fish.html</guid><category>Main</category><category>oil</category><category>fish</category><category>oily</category><category>fishy</category><category>Clupeidae</category></item></channel></rss>
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config …&lt;/script&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">JCTECH Thomascytosis</dc:creator><pubDate>Thu, 09 Dec 2021 00:00:00 -0700</pubDate><guid isPermaLink="false">tag:www.oilyfish.xyz,2021-12-09:/who-loves-oily-fish.html</guid><category>Main</category><category>oil</category><category>fish</category><category>oily</category><category>fishy</category><category>Clupeidae</category></item></channel></rss>
