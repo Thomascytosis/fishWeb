@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Oily Fish</title><link href="https://www.oilyfish.xyz/" rel="alternate"></link><link href="https://www.oilyfish.xyz/feeds/all-en.atom.xml" rel="self"></link><id>https://www.oilyfish.xyz/</id><updated>2021-12-09T00:00:00-07:00</updated><entry><title>Who Loves Oily Fish?</title><link href="https://www.oilyfish.xyz/who-loves-oily-fish.html" rel="alternate"></link><published>2021-12-09T00:00:00-07:00</published><updated>2021-12-09T00:00:00-07:00</updated><author><name>JCTECH Thomascytosis</name></author><id>tag:www.oilyfish.xyz,2021-12-09:/who-loves-oily-fish.html</id><content type="html">&lt;h1&gt;The wonderful world (and flavor!)&lt;/h1&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Oily Fish</title><link href="https://www.oilyfish.xyz/" rel="alternate"></link><link href="https://www.oilyfish.xyz/feeds/all-en.atom.xml" rel="self"></link><id>https://www.oilyfish.xyz/</id><updated>2021-12-09T00:00:00-07:00</updated><entry><title>Who Loves Oily Fish?</title><link href="https://www.oilyfish.xyz/who-loves-oily-fish.html" rel="alternate"></link><published>2021-12-09T00:00:00-07:00</published><updated>2021-12-09T00:00:00-07:00</updated><author><name>JCTECH Thomascytosis</name></author><id>tag:www.oilyfish.xyz,2021-12-09:/who-loves-oily-fish.html</id><summary type="html">&lt;h1&gt;The wonderful world (and flavor!)&lt;/h1&gt;
 &lt;h1&gt;of the most precious of all fishes!&lt;/h1&gt;
 &lt;p&gt;Please enjoy the oil.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
-&lt;p&gt;&lt;form
-  action="https://formspree.io/f/xnqwqpng"
-  method="POST"
-&gt;
-  &lt;label&gt;
-    What is your favorite oily fish?:
-    &lt;br&gt;&lt;/br&gt;
-    &lt;textarea name="please share everything about your favorite oily fish"&gt;&lt;/textarea&gt;
-  &lt;/label&gt;
-  &lt;br&gt;&lt;/br&gt;
-  &lt;label&gt;
-    Your email: 
-    &lt;input type="email" name="_replyto"&gt;
-  &lt;/label&gt;
-  &lt;!-- your other form fields go here --&gt;
-  &lt;button type="submit"&gt;Send&lt;/button&gt;
-&lt;/form&gt;
-&lt;/p&gt;</content><category term="Main"></category><category term="oil"></category><category term="fish"></category><category term="oily"></category><category term="fishy"></category><category term="Clupeidae"></category></entry></feed>
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config …&lt;/script&gt;</summary><content type="html">&lt;h1&gt;The wonderful world (and flavor!)&lt;/h1&gt;
+&lt;h1&gt;of the most precious of all fishes!&lt;/h1&gt;
+&lt;p&gt;Please enjoy the oil.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/br&gt;&lt;/p&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://https-oilyfish-xyz.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href="https://disqus.com/?ref_noscript"&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;</content><category term="Main"></category><category term="oil"></category><category term="fish"></category><category term="oily"></category><category term="fishy"></category><category term="Clupeidae"></category></entry></feed>
