@@ -1,6 +1,6 @@
 AUTHOR = 'thomascytosis'
 SITENAME = 'Oily Fish'
-SITEURL = '.'
+SITEURL = 'https://www.oilyfish.xyz/'
 
 PATH = 'content'
 OUTPUT_PATH = 'docs'
