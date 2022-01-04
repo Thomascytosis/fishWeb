@@ -9,32 +9,6 @@ TIMEZONE = 'America/Denver'
 DEFAULT_LANG = 'en'
 THEME = 'chunk'
 
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-=======
-DISPLAY_CATEGORIES_ON_MENU = True
-USE_FOLDER_AS_CATEGORY = True
-LOAD_CONTENT_CACHE = False
->>>>>>> 41812d6988b5e49d267105973073947539c48866
-# Feed generation is usually not desired when developing
-#FEED_ALL_ATOM = None
-#CATEGORY_FEED_ATOM = None
-#TRANSLATION_FEED_ATOM = None
-#AUTHOR_FEED_ATOM = None
-#AUTHOR_FEED_RSS = None
-#PAGE_PATHS = ['pages']
-DISPLAY_PAGES_ON_MENU = True
-# Related Links
-# LINKS = (('Clupeidae Wikipedia', 'https://en.wikipedia.org/wiki/Clupeidae'),
-#          ('Adriaticnature', 'https://adriaticnature.com/archives/6439'),
-#          ('Sardine Reviews', 'https://sardine.reviews/'),
-# )
-MENUITEMS = (('About', '/pages/about.html'),
-        ('Contact', '/pages/contact.html'),
-        ('Recipes', '/pages/recipes.html'),
-        ('Home', '/pages/home-page.html'))
-
-=======
 DISPLAY_CATEGORIES_ON_MENU = False
 USE_FOLDER_AS_CATEGORY = True
 LOAD_CONTENT_CACHE = False
@@ -56,7 +30,7 @@ MENUITEMS = (('About', '/pages/about.html'),
         ('Recipes', '/pages/recipes.html'),
         ('Home', '/home-page.html'))
 DISPLAY_FOOTER = None
->>>>>>> Stashed changes
+
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
           ('Another social link', '#'),)
