@@ -28,7 +28,7 @@ DISPLAY_PAGES_ON_MENU = True
 MENUITEMS = (('About', '/pages/about.html'),
         ('Contact', '/pages/contact.html'),
         ('Recipes', '/pages/recipes.html'),
-        ('Home', 'index.html'))
+        ('Home', '/index.html'))
 DISPLAY_FOOTER = None
 
 # Social widget
