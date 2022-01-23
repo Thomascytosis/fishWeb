@@ -1,5 +1,5 @@
 <div class="post type-post status-publish format-standard hentry category-general" id="post">
-	<div class="entry-meta">
+	<div id="pink" class="entry-meta">
 		<div class="date"><a href="{{ SITEURL }}/{{ article.url }}">{{ article.locale_date }}</a></div>
 		{% if article.author and not SINGLE_AUTHOR %}
 		<span class="byline">By <a href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></span>
@@ -22,7 +22,7 @@
 			{{ article.content }}
 		</div> <!--/#entry-content-->
 		{% if article.tags %}
-    		<span class="tag-links"><strong>Tagged</strong>
+    		<span id="pink" class="tag-links"><strong>Tagged</strong>
     			{% set delimiter = joiner() %}
     			{% for tag in article.tags|sort %}{{- delimiter() }} <a href="{{ SITEURL }}/{{ tag.url }}" rel="tag">{{ tag }}</a>{% endfor %}
     		</span>

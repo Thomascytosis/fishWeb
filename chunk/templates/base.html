@@ -8,7 +8,11 @@
 		<link rel="stylesheet" type="text/css" href="{{ SITEURL }}/theme/css/style.css" />
 		<link rel='stylesheet' id='oswald-css'  href='http://fonts.googleapis.com/css?family=Oswald&#038;ver=3.3.2' type='text/css' media='all' />
 		<style type="text/css">
-			body.custom-background { background-color: #f5f5f5; }
+			.dark {background-color: #222;color: #e6e6e6;}
+			.dark #pink {color: #e6e6e6;}
+			.dark a{color: #e6e6e6;}
+			.dark a:hover{color:#36bcab}
+			/* body.custom-background { background-color: #f5f5f5; } */
 		</style>
 		<link rel="alternate" type="application/atom+xml"
 			title="{{ SITENAME }} — Flux Atom"
@@ -25,18 +29,18 @@
 		{% endblock head %}
 </head>
 
-<body class="home blog custom-background {% if SINGLE_AUTHOR %}single-author{% endif %}" >
+<body id="pink" class="home blog custom-background {% if SINGLE_AUTHOR %}single-author{% endif %}" >
 	<div id="container">
 		<div id="header">
-				<h1 id="site-title"><a href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
+				<h1 id="site-title"><a id="pink" href="{{ SITEURL }}">{{ SITENAME }}</a></h1>
 				{% if SITESUBTITLE %}<h2 id="site-description">{{ SITESUBTITLE }}</h2>{% endif %}
 		</div><!-- /#banner -->
-		
+		<button style="position:absolute; right: 1vw; top: 1vw;background-color: #222;color: #e6e6e6;" onclick="myFunction()">Dark and Light Mode</button>
 		<div id="menu">
 			<div class="menu-navigation-container">
 				<ul id="menu-navigation" class="menu">
 					{% for title, link in MENUITEMS %}
-						<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}{{ link }}">{{ title }}</a></li>
+						<li id="pink" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="{{ SITEURL }}{{ link }}">{{ title }}</a></li>
 					{% endfor %}
 					{% if DISPLAY_PAGES_ON_MENU %}
 					  {% for p in PAGES %}
@@ -88,5 +92,12 @@
 		</div>
 	</div><!-- /#container -->
 	<div style="display:none"></div>
+	<script>
+        function myFunction() {
+        var element = document.body;
+        element.classList.toggle("dark");
+		element.classList.toggle("pink");
+        }
+    </script>
 </body>
 </html>

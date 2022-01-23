@@ -259,8 +259,8 @@ body {
     line-height: 20px;
     margin-top: 10px;
 }
-.entry-meta .byline a {
-	color: #777;
+/* .entry-meta .byline a {
+	color: #777; */
 }
 .single-author .entry-meta .byline {
 	display: none;
@@ -274,7 +274,7 @@ blockquote {
 	padding: 10px;
 	text-align: justify;
 }
-a {
+a{
 	color: #000;
 	text-decoration: underline;
 }
